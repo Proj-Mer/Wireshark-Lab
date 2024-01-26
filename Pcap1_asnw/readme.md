@@ -4,7 +4,7 @@
 <p align="center"><img src="https://i.imgur.com/czu8bOk.png" height="50%" width="50%" alt="Pcap1"/></p>
 
 ## What is the IP address of the host that was pinged twice?
-- **192.168.1.7**
+- **8.8.4.4**
 <p align="center"><img src="https://i.imgur.com/ilITDlr.png" height="50%" width="50%" alt="Pcap1"/></p>
 
 
