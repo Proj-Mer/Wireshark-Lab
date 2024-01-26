@@ -1,6 +1,6 @@
 # PCAP1
 ## Which protocol was used over port 3942?
-- **SMDP**
+- **SSDP**
 <p align="center"><img src="https://i.imgur.com/czu8bOk.png" height="50%" width="50%" alt="Pcap1"/></p>
 
 ## What is the IP address of the host that was pinged twice?
